@@ -7,15 +7,15 @@ Scripts are for Psychtoolbox for Octave on Linux
 mt94rep_le( subjnr, cond, blocknr )
 
 ### Condition numbers
-1. Shepard repetition
-2. Shepard descending
-3. Sinusoidal repetition
-4. Sinusoidal descending  
+1. Shepard repetition (3 blocks, replication)
+2. Shepard descending (3 blocks, replication)
+3. Sinusoidal repetition (3 blocks, replication)
+4. Sinusoidal descending (3 blocks, replication)
   
-5. Shepard regular repetition 3
-6. Shepard regular repetition 4
-7. Shepard regular descending 3
-8. Shepard regular descending 4
+5. Shepard regular repetition 3 (1 Block; A B C C D E E ...)
+6. Shepard regular repetition 4 (1 Block; A B C D D E F G G ...)
+7. Shepard regular descending 3 (1 Block; A B C B C D C ...)
+8. Shepard regular descending 4 (1 Block; A B C D C D E F E ...)
 
 ### Comments on stimulus randomization
 There were at least two standards between two deviants. No specifications were made in the original manuscript.
