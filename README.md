@@ -11,7 +11,7 @@ mt94rep_le( subjnr, cond, blocknr )
 2. Shepard descending
 3. Sinusoidal repetition
 4. Sinusoidal descending  
-^
+  
 5. Shepard regular repetition 3
 6. Shepard regular repetition 4
 7. Shepard regular descending 3
